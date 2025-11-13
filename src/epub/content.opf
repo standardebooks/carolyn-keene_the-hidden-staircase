@@ -32,15 +32,15 @@
 		<dc:subject id="subject-1">Mystery and detective stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sj96005978</meta>
-		<meta property="se:subject">Children's</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">Nancy Drew Mystery Stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<dc:description id="description">A young amateur detective investigates a supposed haunting for two elderly sisters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-		  <p>Nancy Drew's reputation as an amateur detective precedes her when two elderly sisters ask her to look into a "haunting" at their house. Can Nancy help them find the source of the strange happenings before the sisters are forced to sell the house?</p>
-		  <p><i>The Hidden Staircase</i> is the second book in the <a href="https://standardebooks.org/collections/nancy-drew-mystery-stories">Nancy Drew Mystery Stories</a> series. It was first released in 1930. A later revision was written in 1959, but this Standard Ebooks edition follows the first edition text.</p>
+			&lt;p&gt;Nancy Drew's reputation as an amateur detective precedes her when two elderly sisters ask her to look into a "haunting" at their house. Can Nancy help them find the source of the strange happenings before the sisters are forced to sell the house?&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Hidden Staircase&lt;/i&gt; is the second book in the &lt;a href="https://standardebooks.org/collections/nancy-drew-mystery-stories"&gt;Nancy Drew Mystery Stories&lt;/a&gt; series. It was first released in 1930. A later revision was written in 1959, but this Standard Ebooks edition follows the first edition text.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20201164</dc:source>
